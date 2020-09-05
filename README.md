@@ -1,2 +1,3 @@
 # Heat-Transfer-Project
-Predict the temperature distribution with a given cross section
+This is the code that was developed in order to solve for the temperatures.
+
